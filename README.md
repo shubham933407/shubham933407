@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
+<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <p align="center">
   <b>An Avid Learner | Mechatronics Engineering from IIIT Bhagalpur</b>
 </p>
@@ -7,44 +7,33 @@
 
 <!-- Badges / Contact -->
 <p align="center">
-  <a href="mailto:vikaskumar280204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:shubham957207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/shubham933407"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://leetcode.com/u/vikaskumar281/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://leetcode.com/u/puE8S9zuoZ/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
 
 ---
 
 ## 🚀 About Me  
-- 🌱 I’m a **Full Stack Developer (MERN)**  
-- 🔭 Currently exploring **Machine Learning**  
-- 💡 I love building **real-world apps and dev tools**  
-- 📫 Reach me at: **vikas.2201223me@iiitbh.ac.in**  
+- 🌱 I’m a **Machine Learning Engineer**  
+- 🔭 Currently exploring **Generative AI**   
+- 📫 Reach me at: **shubham.2201203me@iiitbh.ac.in**  
 ---
 
-## 💻 Tech Stack
+## 🤖 Tech Stack  
 
-### 🌐 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 📊 Programming & Libraries  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logoColor=white)  
 
-### 🔧 Backend  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Firebase Functions](https://img.shields.io/badge/Firebase_Functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🤖 ML & AI Frameworks  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-0077B5?style=for-the-badge&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-0A192F?style=for-the-badge&logoColor=white)  
 
-### 🗄️ Databases & Caching  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### 🧠 Deep Learning & NLP  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-F0A500?style=for-the-badge&logo=huggingface&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge&logo=python&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge&logo=python&logoColor=white) ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)  
 
-### 🛠 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+### 📈 Tools & Platforms  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)  
 
-### ⚙️ Hosting  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 💳 Payments & APIs  
-![Razorpay](https://img.shields.io/badge/Razorpay-0C244A?style=for-the-badge&logo=razorpay&logoColor=3395FF) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white) ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest-api&logoColor=white)
-
-### 🤖 AI/ML & Prompt Engineering  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative_AI-black?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge)
-
----
 
 ## 📊 GitHub Stats & Languages  
 
@@ -62,25 +51,25 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/vikas-kumar-586975256/">
+  <a href="https://www.linkedin.com/in/shubham-kumar-b00105259/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/shubham933407">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://leetcode.com/u/vikaskumar281/">
+  <a href="https://leetcode.com/u/puE8S9zuoZ/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
-  <a href="https://www.geeksforgeeks.org/user/vikaskumar92/">
+  <a href="https://www.geeksforgeeks.org/user/shubham7vuj/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
   </a>
-  <a href="https://codeforces.com/profile/vikaskumar280204">
+  <a href="https://codeforces.com/profile/avtgfku">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
   </a>
-  <a href="https://www.kaggle.com/vikaskumar2802">
+  <a href="https://www.kaggle.com/shubham980128">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
-  <a href="https://www.codechef.com/users/vikaskumar281">
+  <a href="https://www.codechef.com/users/shubham957207">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
   </a>
 </p>
