@@ -3,12 +3,12 @@
   <b>An Avid Learner | Mechatronics Engineering from IIIT Bhagalpur</b>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=VikasKumar281&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=shubham933407&color=green)
 
 <!-- Badges / Contact -->
 <p align="center">
   <a href="mailto:vikaskumar280204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/VikasKumar281"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/shubham933407"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://leetcode.com/u/vikaskumar281/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
 
@@ -49,15 +49,15 @@
 ## 📊 GitHub Stats & Languages  
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VikasKumar281&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasKumar281&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shubham933407&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham933407&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VikasKumar281&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shubham933407&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ## 🌐 Connect With Me  
@@ -65,7 +65,7 @@
   <a href="https://www.linkedin.com/in/vikas-kumar-586975256/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/VikasKumar281">
+  <a href="https://github.com/shubham933407">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://leetcode.com/u/vikaskumar281/">
@@ -85,18 +85,14 @@
   </a>
 </p>
 
-
-
 ## 📈 Contribution Graph
-[![Vikas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VikasKumar281&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubham933407&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 <!--## 🐍 My Contribution Graph
 
-![Snake animation](https://github.com/VikasKumar281/VikasKumar281/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/shubham933407/shubham933407/blob/output/github-contribution-grid-snake.svg)
 -->
 
-
-
-⭐️ From [VikasKumar281](https://github.com/VikasKumar281)
+⭐️ From [shubham933407](https://github.com/shubham933407)
